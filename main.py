@@ -9,7 +9,7 @@ import ssl
 import certifi
 import time
 import os # to remove created audio files
-
+#python speech recognition 
 class person:
     name = ''
     def setName(self, name):
