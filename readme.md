@@ -6,6 +6,7 @@ This app initially used the Google text-to-speech API, but has been updated to u
 ### Dependencies
 
 ```
+#this is are must install library
 pip install speechrecognition
 pip install pyttsx3
 pip install pyaudio
